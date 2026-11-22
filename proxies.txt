@@ -1,0 +1,5 @@
+# one proxy per line, any of:
+# ip:port
+# ip:port:user:pass
+# user:pass@ip:port
+# socks5://user:pass@ip:port
